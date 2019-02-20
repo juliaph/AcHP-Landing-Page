@@ -1,0 +1,210 @@
+body,
+html {
+  width: 100%;
+  height: 100%;
+}
+
+body {
+  font-family: 'District Pro Light';
+}
+
+.bg-primary {
+  background-color: #FFFFFF !important;
+}
+
+.text-primary {
+  color: #013C4C !important;
+}
+
+.text-secondary {
+  color: #86332F !important;
+}
+
+.city-directory {
+  color: #FFFFFF;
+  background: #1A2C42;
+  line-height: 42px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 25px;
+  padding-right: 25px;
+}
+
+#navbar {
+  color: #000000;
+  background: #FFFFFF;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  line-height: 100px;
+  z-index: 1;
+  box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.1);
+}
+
+#hcidla-logo{
+  height: auto;
+  width: 180px;
+  padding-left: 30px;
+  padding-right: 15px;
+  padding-top: 10px;
+}
+
+#nav-content{
+  color: #1A2C42;
+  background: #FFFFFF;
+  line-height: 110px;
+}
+
+#login-signup{
+  line-height: 110px;
+  text-align: right;
+  padding-left: 10px;
+}
+
+
+#disability-logo{
+  padding-top: 5px;
+  height: auto;
+  width: 55px;
+  padding-right: 15px;
+  line-height: 110px;
+}
+
+
+#jumbo-tron{
+  line-height: 40px;
+  z-index: 0;
+}
+
+#jumbo-tron-image{
+  width: 100%;
+  height: auto;
+}
+
+.search-bar{
+  border-radius: 12px;
+  width: 200%;
+  text-align: center;
+}
+
+.search-bar:focus, .search-bar:active{
+  border-radius: 12px;
+}
+
+#main-content{
+  padding: 5px;
+  padding-top: 70px;
+  padding-bottom: 50px;
+  text-align: center;
+}
+
+.map{
+  border-color: #757575 !important;
+  box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.1);
+  line-height: 250px;
+  height: 520px;
+  width: 690px;
+  top: 235x;
+  z-index: 0;
+}
+
+#card-view{
+  box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.1);
+  border-color: #757575 !important;
+  padding: 10px;
+  position: relative;
+  z-index: 0;
+}
+
+.card{
+  box-shadow: 0px 3px 3px 0px rgba(0, 0, 0, 0.1);
+  height: 298px;
+  width: 690px;
+}
+
+a {
+  color: #2A73CA;
+}
+
+a:hover, a:focus, a:active {
+  color: #72C6FF;
+}
+
+.btn {
+  -webkit-box-shadow: 0px 3px 3px 0px rgba(0, 0, 0, 0.1);
+  box-shadow: 0px 3px 3px 0px rgba(0, 0, 0, 0.1);
+  font-weight: 700;
+  border-radius: 12px;
+}
+
+.btn-primary {
+  background-color: #355985 !important;
+  border-color: #757575 !important;
+  color: #fff !important;
+}
+
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active {
+  background-color: #1A2C42 !important;
+  border-color: #757575 !important;
+
+}
+
+.btn-secondary {
+  background-color: #86332F !important;
+  border-color: #757575 !important;
+  color: #fff !important;
+}
+
+.btn-secondary:hover, .btn-secondary:focus, .btn-secondary:active {
+  background-color: #6B2825 !important;
+  border-color: #757575 !important;
+  border-radius: 12px;
+}
+
+footer.footer {
+  padding: 10px;
+  background: #E2E2E2;
+}
+
+.container {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  text-align: center;
+  position: relative;
+  color: black;
+}
+
+.bottom-left {
+  position: absolute;
+  bottom: 8px;
+  left: 16px;
+}
+
+.top-left {
+  position: absolute;
+  top: 8px;
+  left: 16px;
+}
+
+.top-right {
+  position: absolute;
+  top: 8px;
+  right: 16px;
+}
+
+.bottom-right {
+  position: absolute;
+  bottom: 8px;
+  right: 16px;
+}
+
+.centered {
+  top: 50%;
+  left: 50%;
+
+  text-align: center;
+  position: absolute;
+}
+
+
+
+
